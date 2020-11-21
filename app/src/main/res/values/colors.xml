@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FE1A55</color>
+    <color name="redDark">#CA215A</color>
+    <color name="yellow">#F9EE60</color>
+    <color name="green">#30F453</color>
+    <color name="blue">#54D6EC</color>
+    <color name="blueDark">#00AAF7</color>
+    <color name="screenBlue">#0C1A57</color>
+    <color name="screenBlueDark">#000850</color>
+    <color name="white">#F2F4E7</color>
+    <color name="placeholder">#576088</color>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613791143062",
+    "firebase_url": "https://retopokeapps.firebaseio.com",
+    "project_id": "retopokeapps",
+    "storage_bucket": "retopokeapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613791143062:android:1ec09c10176cefe4a7deb7",
+        "android_client_info": {
+          "package_name": "com.juanbravo.retopokeapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613791143062-pcb60vl7okn7p0a1jkasa0121j9rls46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanbravo.retopokeapps",
+            "certificate_hash": "8cf1a849624a47f28063afe78d39b1241aa27dac"
+          }
+        },
+        {
+          "client_id": "613791143062-50uqaa91brjdqdf45a4rb002k7bmsgt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFk81i9DMrQJEtdD2M1qDV8mlE4KN_jZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613791143062-50uqaa91brjdqdf45a4rb002k7bmsgt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
